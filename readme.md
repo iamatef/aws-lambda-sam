@@ -1,4 +1,4 @@
-#AWS Lambda using SAM
+# AWS Lambda using SAM
 this sam template just creates a new lambda function, check commands.sh for more details 
 
 ## Steps
